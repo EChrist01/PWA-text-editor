@@ -4,7 +4,7 @@
 
 1. [Description](https://github.com/EChrist01/PWA-text-editor/blob/main/README.md#descrption)
 2. [Installation](https://github.com/EChrist01/PWA-text-editor/blob/main/README.md#installation-instructions)
-3. [Usage]()
+3. [Usage](https://github.com/EChrist01/PWA-text-editor/blob/main/README.md#usage-information)
 4. [Demo]()
 5. [Questions]()
 
