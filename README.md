@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
-1. [Description]()
+1. [Description](https://github.com/EChrist01/PWA-text-editor/blob/main/README.md#descrption)
 2. [Installation]()
 3. [Usage]()
 4. [Demo]()
