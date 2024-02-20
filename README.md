@@ -46,6 +46,7 @@ This application requires nodemon, concurrently and node.js
 -use browser install to download a JATE text editor!
 
 ## Demo.
+https://jate-text-editor259-950f6ed1168f.herokuapp.com/
 ![Screenshot 2024-02-19 200624](https://github.com/EChrist01/PWA-text-editor/assets/146894896/119a4978-30d0-4b51-a5d5-257ec20210d8)
 
 ## Questions
