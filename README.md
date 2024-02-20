@@ -38,15 +38,19 @@ WHEN I deploy to Render
 THEN I should have proper build scripts for a webpack application
 
 ## Installation Instructions.
-This application uses 
+This application requires nodemon, concurrently and node.js
 
 ## Usage Information.
-Page link will open the website, 
+-To run this application enter command <$ npm run start> 
+-open application on http://localhost:3000
+-use browser install to download a JATE text editor!
 
 ## Demo.
+![Screenshot 2024-02-19 200624](https://github.com/EChrist01/PWA-text-editor/assets/146894896/119a4978-30d0-4b51-a5d5-257ec20210d8)
 
 ## Questions
 Github profile: 
+
 Email: Ethanchrist02@gmail.com
 
 
